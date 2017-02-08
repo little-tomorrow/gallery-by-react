@@ -39,10 +39,10 @@ body {
   overflow: hidden;
   background-color: #ddd;
 
-  perspective: 1800px;
   -moz-perspective: 1800px;
   -ms-perspective: 1800px;
   -webkit-perspective: 1800px;
+  perspective: 1800px;
 }
 
 .img-figure {

@@ -1,6 +1,6 @@
 # gallery-by-react
 
-使用新版本 webpack(v1.12.0) 和 react(v15.0.0) 制作的gallery-by-react
+使用新版本 webpack(v1.12.0) 和 react(v15.0.0) 制作的 gallery-by-react
 
 一开始是跟着 Materliu 在慕课网上的视频制作，发现 webpack 和 react 都已经和视频里的版本不同了，用法当然和视频里也不同了。
 
