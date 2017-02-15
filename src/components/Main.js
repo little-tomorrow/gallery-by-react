@@ -327,7 +327,10 @@ class AppComponent extends React.Component {
     this.Constant.vPosRange.x[0] = halfStageW - imgW;
     this.Constant.vPosRange.x[1] = halfStageW;
 
-    this.rearrange(0);
+
+    var imgsArrangeArr = this.state.imgsArrangeArr;
+    this.rearrange(getRangeRandom(0, imgsArrangeArr.length));
+    // this.rearrange(0);
 
   }
 
